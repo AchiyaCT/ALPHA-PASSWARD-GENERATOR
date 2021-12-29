@@ -1,4 +1,4 @@
-# This tool is encoded by Hiruwa
+# This tool is encodd by Hiruwa
 # Coded by hiruwa
 
 import base64
