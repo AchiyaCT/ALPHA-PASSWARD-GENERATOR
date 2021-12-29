@@ -8,3 +8,4 @@ sys("pip install git")
 time.sleep(1)
 sys("clear")
 print("INSTALL SUCCESFULL !!.......")
+
